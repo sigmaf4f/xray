@@ -8,6 +8,7 @@
 
 ![](../images/mac/2.png)
 
+> 如果无法打开gihub，[点击这里下载](https://sigmaf4f.github.io/xray/resources/Qv2ray-v2.7.0-macOS-x64.dmg)
 
 # 2.下载Xray
 
