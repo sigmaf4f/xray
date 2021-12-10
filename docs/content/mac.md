@@ -8,7 +8,7 @@
 
 ![](../images/mac/2.png)
 
-> 如果无法打开gihub，[点击这里下载](../resources/Qv2ray-v2.7.0-macOS-x64.dmg)
+> 如果无法打开gihub，[点击这里下载](../../resources/Qv2ray-v2.7.0-macOS-x64.dmg)
 
 # 2.下载Xray
 
@@ -24,23 +24,25 @@
 
 > 点击首选项
 
-![](../images/windows/5.png)
+![](../images/mac/5.png)
 
 > 内核设置，把执行文件和路径分别指向刚刚下载的xray
 
-![](../images/windows/6.png)
+![](../images/mac/6.png)
 
 # 4.点击分组
 
-![](../images/windows/7.png)
+![](../images/mac/7.png)
 
 > 订阅设置
+
 ?> 地址：  https://sigmaf4f.github.io/xray/resources/base64.txt
+
 ?> 类型：  base64
 
-![](../images/windows/8.png)
+![](../images/mac/8.png)
 
-> 更新订阅
+# 5.更新订阅
 
 根据要翻墙出境还是要，翻墙回大陆选择不同的服务器。（香港意味着翻墙出境，深圳意味着翻墙回大陆看爱奇艺等视频网站）
 
