@@ -18,7 +18,7 @@
 
 ![](../images/mac/4.png)
 
-> 如果无法打开gihub，[点击这里下载](https://sigmaf4f.github.io/xray/resources/Xray-macos-64.dmg)
+> 如果无法打开gihub，[点击这里下载](https://sigmaf4f.github.io/xray/resources/Xray-macos-64.zip)
 
 # 3.打开应用程序
 

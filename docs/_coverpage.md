@@ -1,15 +1,13 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](images/logo.png)
 
-# docsify <small>3.5</small>
+# First 4 Figures <small>xray</small>
 
-> 一个神奇的文档网站生成器。
+> 用xray帮助F4F团队无障碍翻墙
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 支持iphone，android
+- windows，mac
+- 境外境内来回翻
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
-[tet](#index)
+[Get Started](#关于科学上网)
