@@ -8,7 +8,7 @@
 
 ![](../images/windows/2.png)
 
-> 如果无法打开gihub，[点击这里下载](https://sigmaf4f.github.io/xray/resources/resources/v2rayN-Core.zip)
+> 如果无法打开gihub，[点击这里下载](https://sigmaf4f.github.io/xray/resources/v2rayN-Core.zip)
 
 # 2.打开应用程序
 
