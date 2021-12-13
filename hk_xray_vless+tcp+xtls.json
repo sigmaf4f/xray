@@ -19,11 +19,11 @@
                 "decryption": "none", 
                 "fallbacks": [
                     {
-                        "dest": 33222  //默认回落端口
+                        "dest": 80  //默认回落端口
                     }, 
                     {
                         "alpn": "h2", 
-                        "dest": 33223  //https回落端口
+                        "dest": 443  //https回落端口
                     }
                 ]
             }, 
@@ -31,15 +31,15 @@
                 "network": "tcp", 
                 "security": "xtls", 
                 "xtlsSettings": {
-                    "serverName": "hkv2ray.first4figures.com",  //你的域名
+                    "serverName": "hkxray.sigmaxu.com",  //你的域名
                     "alpn": [
                         "h2", 
                         "http/1.1"
                     ], 
                     "certificates": [
                         {
-                            "certificateFile": "/var/www/certs/hkxray.first4figures.com_public.crt",
-                            "keyFile": "/var/www/certs/hkxray.first4figures.com.key"
+                            "certificateFile": "/var/www/certs/hkxray.sigmaxu.com.crt", // 换成你的证书，绝对路径
+                            "keyFile": "/var/www/certs/hkxray.sigmaxu.com.key" // 换成你的私钥，绝对路径
                         }
                     ]
                 }
