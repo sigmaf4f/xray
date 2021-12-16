@@ -38,8 +38,8 @@
                     ], 
                     "certificates": [
                         {
-                            "certificateFile": "/var/www/certs/hkxray.sigmaxu.com.crt", // 换成你的证书，绝对路径
-                            "keyFile": "/var/www/certs/hkxray.sigmaxu.com.key" // 换成你的私钥，绝对路径
+                            "certificateFile": "/var/www/certs/sigmaxu.com.crt", // 换成你的证书，绝对路径
+                            "keyFile": "/var/www/certs/sigmaxu.com.key" // 换成你的私钥，绝对路径
                         }
                     ]
                 }
