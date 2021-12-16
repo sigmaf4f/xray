@@ -8,7 +8,7 @@
 
 ![](../images/android/0_2.png)
 
-> 如果无法打开gihub，[点击这里下载](https://sigmaf4f.github.io/xray/resources/v2rayNG_1.6.23.apk)
+> 如果无法打开gihub，[点击这里下载](https://sigmaf4f.github.io/xray/resources/v2rayNG_1.6.23.apk.zip)
 
 # 2.打开V2rayNG 
 
