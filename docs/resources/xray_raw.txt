@@ -1,3 +1,3 @@
 vless://5218b99e-1fcd-4ebf-84be-5dc1d676f575@hkxray.first4figures.com:8443?encryption=none&security=tls&type=ws&host=hkxray.first4figures.com&sni=hkxray.first4figures.com&path=%2ffakews?ed=2048#香港稳定_vless+ws+tls+cdn
 vless://5218b99e-1fcd-4ebf-84be-5dc1d676f575@hkxray.first4figures.com:8443?encryption=none&security=xtls&type=tcp&host=hkxray.first4figures.com&headerType=none&sni=hkxray.first4figures.com&flow=xtls-rprx-direct#香港备用_vless+tcp+xtls
-vmess://eyJhZGQiOiIxMTIuNzQuODAuMTY4IiwiYWlkIjowLCJpZCI6IjVmODc4YTdiLTQ0N2UtNGRmOC04ODc0LWIzNTFiM2MxODk2NiIsIm5ldCI6InRjcCIsInBvcnQiOjg0NDMsInBzIjoi5rex5Zyz56iz5a6aIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOjJ9
+vless://0bed8cb4-5271-462b-a4c8-33b2c0d8f36f@szxray.miasuki.com:443?encryption=none&security=xtls&type=tcp&host=szxray.miasuki.com&headerType=none&sni=szxray.miasuki.com&flow=xtls-rprx-direct#深圳稳定_vless+tcp+xtls
