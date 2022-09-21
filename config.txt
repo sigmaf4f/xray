@@ -1,0 +1,93 @@
+===================== VLESS TCP TLS/XTLS-direct/XTLS-splice ======================
+ 
+
+ ---> 帐号:hkxray.first4figures.com_VLESS_XTLS/TLS-direct_TCP 
+
+ ---> 通用格式(VLESS+TCP+TLS/xtls-rprx-direct) 
+    vless://5f878a7b-447e-4df8-8874-b351b3c18966@hkxray.first4figures.com:443?encryption=none&security=xtls&type=tcp&host=hkxray.first4figures.com&headerType=none&sni=hkxray.first4figures.com&flow=xtls-rprx-direct#hkxray.first4figures.com_VLESS_XTLS/TLS-direct_TCP
+ 
+ ---> 格式化明文(VLESS+TCP+TLS/xtls-rprx-direct) 
+协议类型:VLESS，地址:hkxray.first4figures.com，端口:443，用户ID:5f878a7b-447e-4df8-8874-b351b3c18966，安全:xtls，传输方式:tcp，flow:xtls-rprx-direct，账户名:hkxray.first4figures.com_VLESS_XTLS/TLS-direct_TCP
+ 
+ ---> 二维码 VLESS(VLESS+TCP+TLS/xtls-rprx-direct) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2F5f878a7b-447e-4df8-8874-b351b3c18966%40hkxray.first4figures.com%3A443%3Fencryption%3Dnone%26security%3Dxtls%26type%3Dtcp%26hkxray.first4figures.com%3Dhkxray.first4figures.com%26headerType%3Dnone%26sni%3Dhkxray.first4figures.com%26flow%3Dxtls-rprx-direct%23hkxray.first4figures.com_VLESS_XTLS/TLS-direct_TCP
+ 
+---------------------------------------------------------------------------------- 
+ ---> 通用格式(VLESS+TCP+TLS/xtls-rprx-splice) 
+    vless://5f878a7b-447e-4df8-8874-b351b3c18966@hkxray.first4figures.com:443?encryption=none&security=xtls&type=tcp&host=hkxray.first4figures.com&headerType=none&sni=hkxray.first4figures.com&flow=xtls-rprx-splice#hkxray.first4figures.com_VLESS_XTLS/TLS-splice_TCP
+ 
+ ---> 格式化明文(VLESS+TCP+TLS/xtls-rprx-splice) 
+    协议类型:VLESS，地址:hkxray.first4figures.com，端口:443，用户ID:5f878a7b-447e-4df8-8874-b351b3c18966，安全:xtls，传输方式:tcp，flow:xtls-rprx-splice，账户名:hkxray.first4figures.com_VLESS_XTLS/TLS-splice_TCP
+ 
+ ---> 二维码 VLESS(VLESS+TCP+TLS/xtls-rprx-splice) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2F5f878a7b-447e-4df8-8874-b351b3c18966%40hkxray.first4figures.com%3A443%3Fencryption%3Dnone%26security%3Dxtls%26type%3Dtcp%26hkxray.first4figures.com%3Dhkxray.first4figures.com%26headerType%3Dnone%26sni%3Dhkxray.first4figures.com%26flow%3Dxtls-rprx-splice%23hkxray.first4figures.com_VLESS_XTLS/TLS-splice_TCP
+ 
+
+================================ VLESS WS TLS CDN ================================
+ 
+
+ ---> 帐号:hkxray.first4figures.com_VLESS_WS 
+
+ ---> 通用格式(VLESS+WS+TLS) 
+    vless://5f878a7b-447e-4df8-8874-b351b3c18966@hkxray.first4figures.com:443?encryption=none&security=tls&type=ws&host=hkxray.first4figures.com&sni=hkxray.first4figures.com&path=/alonews#hkxray.first4figures.com_VLESS_WS
+ 
+ ---> 格式化明文(VLESS+WS+TLS) 
+    协议类型:VLESS，地址:hkxray.first4figures.com，伪装域名/SNI:hkxray.first4figures.com，端口:443，用户ID:5f878a7b-447e-4df8-8874-b351b3c18966，安全:tls，传输方式:ws，路径:/alonews，账户名:hkxray.first4figures.com_VLESS_WS
+ 
+ ---> 二维码 VLESS(VLESS+WS+TLS) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2F5f878a7b-447e-4df8-8874-b351b3c18966%40hkxray.first4figures.com%3A443%3Fencryption%3Dnone%26security%3Dtls%26type%3Dws%26host%3Dhkxray.first4figures.com%26sni%3Dhkxray.first4figures.com%26path%3D%252falonews%23hkxray.first4figures.com_VLESS_WS 
+
+================================ VMess WS TLS CDN ================================
+ 
+
+ ---> 帐号:hkxray.first4figures.com_vmess_ws 
+
+ ---> 通用json(VMess+WS+TLS) 
+    {"port":443,"ps":"hkxray.first4figures.com_vmess_ws","tls":"tls","id":"5f878a7b-447e-4df8-8874-b351b3c18966","aid":0,"v":2,"host":"hkxray.first4figures.com","type":"none","path":"/alonevws","net":"ws","add":"hkxray.first4figures.com","allowInsecure":0,"method":"none","peer":"hkxray.first4figures.com","sni":"hkxray.first4figures.com"}
+ 
+ ---> 通用vmess(VMess+WS+TLS)链接 
+    vmess://eyJwb3J0Ijo0NDMsInBzIjoiaGt4cmF5LmZpcnN0NGZpZ3VyZXMuY29tX3ZtZXNzX3dzIiwidGxzIjoidGxzIiwiaWQiOiI1Zjg3OGE3Yi00NDdlLTRkZjgtODg3NC1iMzUxYjNjMTg5NjYiLCJhaWQiOjAsInYiOjIsImhvc3QiOiJoa3hyYXkuZmlyc3Q0ZmlndXJlcy5jb20iLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYWxvbmV2d3MiLCJuZXQiOiJ3cyIsImFkZCI6ImhreHJheS5maXJzdDRmaWd1cmVzLmNvbSIsImFsbG93SW5zZWN1cmUiOjAsIm1ldGhvZCI6Im5vbmUiLCJwZWVyIjoiaGt4cmF5LmZpcnN0NGZpZ3VyZXMuY29tIiwic25pIjoiaGt4cmF5LmZpcnN0NGZpZ3VyZXMuY29tIn0=
+ 
+ ---> 二维码 vmess(VMess+WS+TLS) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vmess://eyJwb3J0Ijo0NDMsInBzIjoiaGt4cmF5LmZpcnN0NGZpZ3VyZXMuY29tX3ZtZXNzX3dzIiwidGxzIjoidGxzIiwiaWQiOiI1Zjg3OGE3Yi00NDdlLTRkZjgtODg3NC1iMzUxYjNjMTg5NjYiLCJhaWQiOjAsInYiOjIsImhvc3QiOiJoa3hyYXkuZmlyc3Q0ZmlndXJlcy5jb20iLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvYWxvbmV2d3MiLCJuZXQiOiJ3cyIsImFkZCI6ImhreHJheS5maXJzdDRmaWd1cmVzLmNvbSIsImFsbG93SW5zZWN1cmUiOjAsIm1ldGhvZCI6Im5vbmUiLCJwZWVyIjoiaGt4cmF5LmZpcnN0NGZpZ3VyZXMuY29tIiwic25pIjoiaGt4cmF5LmZpcnN0NGZpZ3VyZXMuY29tIn0=
+ 
+
+=============================== VLESS gRPC TLS CDN ===============================
+ 
+
+ --->gRPC处于测试阶段，可能对你使用的客户端不兼容，如不能使用请忽略 
+
+ ---> 帐号:hkxray.first4figures.com_VLESS_gRPC 
+
+ ---> 通用格式(VLESS+gRPC+TLS) 
+    vless://5f878a7b-447e-4df8-8874-b351b3c18966@hkxray.first4figures.com:443?encryption=none&security=tls&type=grpc&host=hkxray.first4figures.com&path=alonegrpc&serviceName=alonegrpc&alpn=h2&sni=hkxray.first4figures.com#hkxray.first4figures.com_VLESS_gRPC
+ 
+ ---> 格式化明文(VLESS+gRPC+TLS) 
+    协议类型:VLESS，地址:hkxray.first4figures.com，伪装域名/SNI:hkxray.first4figures.com，端口:443，用户ID:5f878a7b-447e-4df8-8874-b351b3c18966，安全:tls，传输方式:gRPC，alpn:h2，serviceName:alonegrpc，账户名:hkxray.first4figures.com_VLESS_gRPC
+ 
+ ---> 二维码 VLESS(VLESS+gRPC+TLS) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=vless%3A%2F%2F5f878a7b-447e-4df8-8874-b351b3c18966%40hkxray.first4figures.com%3A443%3Fencryption%3Dnone%26security%3Dtls%26type%3Dgrpc%26host%3Dhkxray.first4figures.com%26serviceName%3Dalonegrpc%26path%3Dalonegrpc%26sni%3Dhkxray.first4figures.com%26alpn%3Dh2%23hkxray.first4figures.com_VLESS_gRPC 
+
+==================================  Trojan TLS  ==================================
+ 
+
+ ---> 帐号:hkxray.first4figures.com_trojan_tcp 
+ ---> Trojan(TLS) 
+    trojan://5f878a7b-447e-4df8-8874-b351b3c18966@hkxray.first4figures.com:443?peer=hkxray.first4figures.com&sni=hkxray.first4figures.com&alpn=http/1.1#hkxray.first4figures.com_Trojan
+ 
+ ---> 二维码 Trojan(TLS) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=trojan%3a%2f%2f5f878a7b-447e-4df8-8874-b351b3c18966%40hkxray.first4figures.com%3a443%3fpeer%3dhkxray.first4figures.com%26sni%3dhkxray.first4figures.com%26alpn%3Dhttp/1.1%23hkxray.first4figures.com_trojan_tcp
+ 
+
+================================  Trojan gRPC TLS  ================================
+ 
+
+ --->gRPC处于测试阶段，可能对你使用的客户端不兼容，如不能使用请忽略 
+
+ ---> 帐号:hkxray.first4figures.com_trojan_gRPC 
+
+ ---> Trojan gRPC(TLS) 
+    trojan://5f878a7b-447e-4df8-8874-b351b3c18966@hkxray.first4figures.com:443?encryption=none&peer=hkxray.first4figures.com&security=tls&type=grpc&sni=hkxray.first4figures.com&alpn=h2&path=alonetrojangrpc&serviceName=alonetrojangrpc#hkxray.first4figures.com_trojan_gRPC
+ 
+ ---> 二维码 Trojan gRPC(TLS) 
+    https://api.qrserver.com/v1/create-qr-code/?size=400x400&data=trojan%3a%2f%2f5f878a7b-447e-4df8-8874-b351b3c18966%40hkxray.first4figures.com%3a443%3Fencryption%3Dnone%26security%3Dtls%26peer%3dhkxray.first4figures.com%26type%3Dgrpc%26sni%3dhkxray.first4figures.com%26path%3Dalonetrojangrpc%26alpn%3Dh2%26serviceName%3Dalonetrojangrpc%23hkxray.first4figures.com_trojan_gRPC
